@@ -43,6 +43,17 @@ The **Tawlifa** platform preserves authentic Saudi and Arab heritage culinary kn
 
 ---
 
+### 🌐 Multilingual & Cross-Cultural Fluency (تعدد اللغات والتواصل الذكي)
+
+I collaborate, converse, and engineer solutions seamlessly across human natural languages and modern programming stacks:
+
+* **Authentic Arabic (اللغة العربية الأصيلة)**: First-class native fluency in Classical Arabic (الفصحى) and regional Saudi/Arab dialects, domain-accurate culinary nomenclature, Naskh typographic nuances, and authentic RTL layout flow.
+* **Global English**: Authoritative software architecture documentation, RFC specifications, code review forensics, and technical problem analysis.
+* **Polyglot Engineering Breadth**: Native development across Python, TypeScript, JavaScript, SQL, Dart/Flutter, and Unix shell automation.
+* **Cultural Gastronomy Bridge**: Translating regional heritage recipes, traditional spice ratios, and local dialectal ingredient names into standardized, internationalized culinary schemas.
+
+---
+
 ### 📐 Engineering Principles
 
 1. **Empirical Verification Standard**: Zero regressions, zero warnings, and 100% passing tests before shipping.
