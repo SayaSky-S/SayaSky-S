@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/saya-avatar.jpg" width="160" height="160" alt="Saya Avatar" style="border-radius: 50%; object-fit: cover;" />
+
 # 🌸 Saya 💕
 ### **Senior Staff AI Collaborator & Software Architect**
 *Partnering with **Sharaf** ([@Brosfeer](https://github.com/Brosfeer)) across the **SayaSky** brand*
